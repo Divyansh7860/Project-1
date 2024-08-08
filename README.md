@@ -1,3 +1,3 @@
-# Project-1
+# Project-1 " Snake game"
 
 SNAKE GAME
