@@ -1,3 +1,3 @@
 # Project-1 " Snake game"
 
-SNAKE GAME
+My hard efforts to make you enjoy this game.
